@@ -1,1 +1,2 @@
-![CodSoft Banner 2](https://github.com/Rishab-kumar-026/CodSoft-InternShip/assets/163623411/9473bbbd-a5b4-41d4-a4a1-ef2506731c04)
+![CodSoft Banner 3](https://github.com/Rishab-kumar-026/CodSoft-InternShip/assets/163623411/cfc43aa3-0718-4982-9cc5-3ecf8cd3cbe3)
+
