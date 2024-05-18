@@ -1,7 +1,7 @@
 Portfolio in Light Mode:
 
-![Portfolio Project](https://github.com/Rishab-kumar-026/Portfolio/assets/163623411/e7476834-c77c-478d-9a4d-49f1e2106fa2)
+![Portfolio img](https://github.com/Rishab-kumar-026/Portfolio/assets/163623411/9c8ac9ab-e1b6-47a3-ac95-2b5523e9872e)
 
 Portfolio in Dark Mode:
 
-![Portfolio Dark Mode](https://github.com/Rishab-kumar-026/Portfolio/assets/163623411/7c95fd6f-d0d2-4daa-9f8c-fe439b49ff42)
+![Portfolio Dark mode img](https://github.com/Rishab-kumar-026/Portfolio/assets/163623411/3ecad2e1-41c7-473b-9c57-568f91b4764e)
